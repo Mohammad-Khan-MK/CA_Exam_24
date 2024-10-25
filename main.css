@@ -52,3 +52,11 @@ button:hover {
     opacity: 1;
     transform: translateX(0);
 }
+
+
+
+#click-me{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
